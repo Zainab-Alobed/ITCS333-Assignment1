@@ -4,21 +4,16 @@ body{
    
 }
 header{
-    background-color: rgb(230, 226, 226);
-    color: rgb(53, 106, 152); 
     display: flex;
     text-align: center;
     align-items: center;
     color:azure;
     height: 600px;
     flex-direction: column;
-    
     background-image : url("./img/Image.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    
     justify-content: space-around;
-    
 
 }
 
